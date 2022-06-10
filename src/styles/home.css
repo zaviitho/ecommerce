@@ -1,0 +1,16 @@
+.home__products{
+    display: flex;
+    justify-content: space-around;
+    flex-flow:row wrap;
+    list-style: none;
+    margin-left:6rem;
+}
+
+.home__filter{
+    position: relative;
+    display: block;
+}
+.modal-filter{
+    position: relative;
+    top:  3rem;
+}

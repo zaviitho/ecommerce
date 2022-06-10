@@ -1,0 +1,28 @@
+
+.filter{
+    display: flex;
+    justify-content: space-around;
+    padding-left:1rem;
+    font-family:roboto;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.555);
+    flex-flow: column wrap;
+}
+.filter-category{
+    display: flex;
+    justify-content: space-around;
+}
+.filter-price{
+    display: flex;
+    justify-content: space-around;
+}
+.buttons-categories{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.input{
+    width:4rem;
+}
+.label{
+    width: 6rem;
+}

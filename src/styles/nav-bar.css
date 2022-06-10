@@ -1,0 +1,11 @@
+.container{
+    justify-content:space-around;
+    text-decoration: none;
+    align-items:center;
+}
+.container .link {
+    text-decoration: none;
+}
+.button{
+    margin-right: 3rem;
+}
